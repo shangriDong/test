@@ -11,3 +11,4 @@ master 1
 
 b1 rebase 1
 m1 rebase 1
+m merge 1
