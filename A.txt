@@ -19,3 +19,9 @@ test hard 1
 test hard 5
 
 test hard 6
+
+test hard 7
+
+test hard 8
+
+test hard 9
