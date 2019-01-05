@@ -15,3 +15,7 @@ m merge 1
 
 
 test hard 1
+
+test hard 5
+
+test hard 6
